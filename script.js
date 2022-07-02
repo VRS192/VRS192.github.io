@@ -16,10 +16,10 @@ const r4c3 = document.getElementById("r4c3");
 const r4c4 = document.getElementById("r4c4");
 
 const board = [
-    [2, 0, 0, 0],
-    [2, 0, 0, 0],
-    [4, 0, 0, 0],
-    [4, 0, 0, 0],
+    [0, 0, 0, 0],
+    [0, 0, 0, 0],
+    [0, 0, 0, 0],
+    [0, 0, 0, 0],
 ];
 
 const updateBoard = () => {
